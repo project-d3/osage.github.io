@@ -1,0 +1,46 @@
+body {
+  background-color: #000000 !important;
+  color: #fff;
+}
+
+.card {
+  border-radius: 0px !important;
+}
+
+.card-img-top {
+  border-radius: 0px !important;
+}
+
+.jumbotron {
+  min-height: 40vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 1)), url(../redsunsCollection.png);
+  background-size: cover;
+  margin-bottom: 0;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.text-muted {
+  color: #969696 !important;
+}
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(255, 0, 0, 0.25); }
